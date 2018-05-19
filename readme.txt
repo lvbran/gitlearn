@@ -5,3 +5,4 @@ Git tracks changes of stage.
 333 444
 Creating a new branch is quick. 
 Creating a new branch is quick AND simple.
+add merge
